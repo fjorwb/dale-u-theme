@@ -4,6 +4,19 @@
   "description": "vs code awesome theme for u fans!",
   "version": "0.0.1",
   "publisher": "fjorwb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fjorwb/dale-u-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "u",
+    "y dale u",
+    "universitatio de deportes",
+    "fjorwb"
+  ],
   "engines": {
     "vscode": "^1.92.0"
   },
