@@ -2,7 +2,7 @@
   "name": "dale-u-theme",
   "displayName": "dale u theme",
   "description": "vs code awesome theme for u fans!",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "fjorwb",
   "repository": {
     "type": "git",
@@ -31,5 +31,6 @@
         "path": "./themes/dale u theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "SEE LICENSE IN LICENSE.txt"
 }
