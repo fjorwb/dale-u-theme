@@ -1,0 +1,22 @@
+{
+  "name": "dale-u-theme",
+  "displayName": "dale u theme",
+  "description": "vs code awesome theme for u fans!",
+  "version": "0.0.1",
+  "publisher": "fjorwb",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dale u theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dale u theme-color-theme.json"
+      }
+    ]
+  }
+}
